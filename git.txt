@@ -5,3 +5,5 @@ git log --oneline --all 이건 깃 로그보기 ,  뒤에 graph 붙이면 그래
 git branch 브렌치할제목
 마켓플레이스 git Graph를 깔면 커밋한내용 빠진거 더한거 내용 편하게볼수있음
 git branch -d 브렌치지울제목
+git branch -D  머지 아직안한 브렌치지울제목
+git merge --squash 이건 머지해주는거랑 똑같은데 메인브렌치커밋만 남도록 해줌
