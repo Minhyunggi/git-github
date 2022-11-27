@@ -1,0 +1,6 @@
+git switch main 또는 branch 만들어놓은것 이름
+git add . 또는 특정파일이름 . <= 이건 모든파일 커밋할준비
+git commit -m '커밋내용'
+git log --oneline --all 이건 깃 로그보기 ,  뒤에 graph 붙이면 그래프형식으로 볼수있음
+git branch 브렌치할제목
+마켓플레이스 git Graph를 깔면 커밋한내용 빠진거 더한거 내용 편하게볼수있음
