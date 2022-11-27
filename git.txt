@@ -4,3 +4,4 @@ git commit -m '커밋내용'
 git log --oneline --all 이건 깃 로그보기 ,  뒤에 graph 붙이면 그래프형식으로 볼수있음
 git branch 브렌치할제목
 마켓플레이스 git Graph를 깔면 커밋한내용 빠진거 더한거 내용 편하게볼수있음
+git branch -d 브렌치지울제목
